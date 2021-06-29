@@ -1,22 +1,24 @@
-{
-  "name": "Bar Harber Cranberry Pie",
-  "desc": "A delicious bottom-crust Thanksgiving pie filled with sugar and cranberries.",
-  "ingredients": [
-    "Cranberries",
-    "Sugar",
-    "Flour",
-    "Eggs",
-    "Milk"
-    ]
+[
+  {
+    "name": "Bar Harbar Cranberry Pie",
+    "desc": "A delicious bottom-crust Thanksgiving pie filled with sugar and cranberries.",
+    "ingredients": [
+      "Cranberries",
+      "Sugar",
+      "Flour",
+      "Eggs",
+      "Milk"
+      ]
   },
   {
-  "name": "Blueberry Pie",
-  "desc": "A tasty summer-time pie filled with sugar and blueberries.",
-  "ingredients": [
-    "Blueberries",
-    "Sugar",
-    "Flour",
-    "Baking Powder",
-    "More Sugar"
-  ]
-}
+    "name": "Blueberry Pie",
+    "desc": "a tasty summer-time pie filled with sugar and blueberries.",
+    "ingredients": [
+      "Blueberries",
+      "Sugar",
+      "Flour",
+      "Baking Powder",
+      "More Sugar"
+      ]
+  }
+]
