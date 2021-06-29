@@ -1,4 +1,5 @@
-[
+{
+  "dishes": [
   {
     "name": "Bar Harbar Cranberry Pie",
     "desc": "A delicious bottom-crust Thanksgiving pie filled with sugar and cranberries.",
@@ -8,17 +9,18 @@
       "Flour",
       "Eggs",
       "Milk"
-      ]
+    ]
   },
   {
     "name": "Blueberry Pie",
-    "desc": "a tasty summer-time pie filled with sugar and blueberries.",
+    "desc": "A tasty summer-time pie filled with sugar and blueberries.",
     "ingredients": [
       "Blueberries",
       "Sugar",
       "Flour",
       "Baking Powder",
       "More Sugar"
-      ]
+    ]
   }
-]
+  ]
+}
